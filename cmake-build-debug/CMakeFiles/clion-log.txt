@@ -1,0 +1,4 @@
+"D:\Program Files\CLion\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\Dev\Edu\lab4_security_task2
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Dev/Edu/lab4_security_task2/cmake-build-debug
